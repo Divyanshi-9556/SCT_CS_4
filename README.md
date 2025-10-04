@@ -56,7 +56,7 @@ Only use this program on your own computer for learning purposes.
 Never use it on others’ computers without permission — it is illegal.
 Logs can be excluded from GitHub using .gitignore to prevent sensitive data from being uploaded.
 Author
-**Ayush Sahu – Virtual Internship Task | Cybersecurity Education
+**Divyanshi Khare – Virtual Internship Task | Cybersecurity Education
 
-Do you want me to do that?
+
 
